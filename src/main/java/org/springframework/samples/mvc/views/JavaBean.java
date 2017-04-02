@@ -26,4 +26,7 @@ public class JavaBean {
 		this.fruit = fruit;
 	}
 
+	public JavaBean(){
+		
+	}	
 }
